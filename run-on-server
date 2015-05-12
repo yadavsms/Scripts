@@ -1,0 +1,2 @@
+#/bin/sh
+parallel-ssh -h /home/somesh/.servers/nodes -t -1 -iv $@

@@ -1,0 +1,2 @@
+#!/bin/bash
+parallel-scp -r -h /home/somesh/.servers/slaves $1 $2
